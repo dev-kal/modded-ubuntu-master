@@ -59,9 +59,9 @@
   - Type `vncstart` to run Vncserver
   - Type `vncstop` to stop Vncserver
 
-- Install VNC VIEWER Apk on your Device. [Google Play Store](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
+- Install VNC VIEWER Apk on your Device. [Google Play Store](https://play.google.com/store/apps/details?id=com.gaurav.avnc)
 
-- Open VNC VIEWER & Click on + Button & Enter the Address `localhost:1` & Name anything you like
+- Open VNC VIEWER & Click on + Button & Enter the Address `localhost` & Name anything you like
 - Set the Picture Quality to High for better Quality
 - Click on Connect & Input the Password 
 - Enjoy :D
