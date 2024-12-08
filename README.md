@@ -74,8 +74,9 @@
 
 - **Type `bash remove.sh` to remove Ubuntu Modded Os**
 
+<!--
 ### Video Tutorial : 
-
+-->
 
 #
 ### Click to see the [Changelog](./CHANGELOG.md)
@@ -91,8 +92,8 @@ Full Credit of the Ubuntu image goes to them .
 
 Termux Proot Distro - https://github.com/termux/proot-distro
 ```
-
-### Maintainers
+<!--
+### Maintainers -->
 
 
 
