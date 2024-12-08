@@ -36,7 +36,7 @@
 
   - `yes | pkg up`
   - `pkg install git wget -y`
-  - `git clone --depth=1 https://github.com/modded-ubuntu/modded-ubuntu.git`
+  - `git clone --depth=1 https://github.com/dev-kal/modded-ubuntu-master.git`
   - `cd modded-ubuntu`
   - `bash setup.sh`
 
