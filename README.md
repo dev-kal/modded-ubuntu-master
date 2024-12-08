@@ -72,7 +72,6 @@
 
 ### Video Tutorial : 
 
-[![Watch the Tutorial](./distro/image1.jpg)](https://mega.nz/embed/QvIC1TLQ#3z27MRNPwANAg6JTtx1Ei8kDouOZsZgk00bg4TsJMNQ!1m)
 
 #
 ### Click to see the [Changelog](./CHANGELOG.md)
@@ -91,9 +90,6 @@ Termux Proot Distro - https://github.com/termux/proot-distro
 
 ### Maintainers
 
-- [**Mustakim Ahmed**](https://github.com/BDhackers009)
-- [**Tahmid Rayat**](https://github.com/htr-tech)
-- [**0xBaryonyx**](https://github.com/Mahfuz-THBD)
 
 
 ### If you like our work then dont forget to give a Star :)
